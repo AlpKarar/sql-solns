@@ -9,7 +9,7 @@ ORDER BY country ASC;
 SELECT country
 FROM country
 WHERE country LIKE '%_____n'
-ORDER  BY country ASC
+ORDER BY country ASC;
 
 -- Q3
 
